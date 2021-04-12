@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navigation-bar{
+    
+        background-color: black;
+        height: 100px;
+        width: 1535px;
+    border-radius: 5px;
+    display: flex;
+}
+.name{
+    color: thistle;
+    padding: 35px;
+}   
